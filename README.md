@@ -58,11 +58,12 @@ El proyecto está dividido en carpetas claras:
 1. Descarge el proyecto
 2. Extraigalo todo
 3. Metase en Visual Studio Code con el proyecto
-4. Metase a la carpeta Dungeon
+4. Abra una terminal
+5. Metase a la carpeta Dungeon
    ```bash
    cd Dungeon
    ```
-5. Ejecute el proyecto
+6. Ejecute el proyecto
    ```bash
    dotnet run
    ```
