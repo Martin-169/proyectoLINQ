@@ -36,7 +36,7 @@ El proyecto está dividido en carpetas claras:
 - **Datos** → Listas base de enemigos y objetos.
 - **SistemaInventario** → Gestión del inventario.
 - **SistemasCombates** → Combate, turnos, cálculos y menús.
-- **Nucleo** → Generador de mazmorra, juego principal, botín.
+- **Nucleo** → Generador de mazmorra, juego principal, botín, SistemasCombates y SistemaInventario.
 
 ---
 
