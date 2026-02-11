@@ -1,0 +1,105 @@
+[
+  {
+    "Nombre": "Espada Oxidada",
+    "Tipo": "Arma",
+    "Rareza": "Comun",
+    "Valor": 2,
+    "CenizaNombre": "Golpe Descuidado",
+    "CenizaDescripcion": "Un tajo simple pero contundente.",
+    "CenizaDaño": 6,
+    "CenizaCooldown": 1
+  },
+  {
+    "Nombre": "Hacha de Madera",
+    "Tipo": "Arma",
+    "Rareza": "Comun",
+    "Valor": 3,
+    "CenizaNombre": "Hachazo Torpe",
+    "CenizaDescripcion": "Un golpe impreciso que aun así hace daño.",
+    "CenizaDaño": 8,
+    "CenizaCooldown": 1
+  },
+  {
+    "Nombre": "Daga Rota",
+    "Tipo": "Arma",
+    "Rareza": "Comun",
+    "Valor": 2,
+    "CenizaNombre": "Puñalada Rápida",
+    "CenizaDescripcion": "Un ataque veloz pero débil.",
+    "CenizaDaño": 7,
+    "CenizaCooldown": 1
+  },
+
+  {
+    "Nombre": "Espada de Acero",
+    "Tipo": "Arma",
+    "Rareza": "Raro",
+    "Valor": 5,
+    "CenizaNombre": "Estocada Precisa",
+    "CenizaDescripcion": "Un ataque certero que atraviesa defensas.",
+    "CenizaDaño": 14,
+    "CenizaCooldown": 2
+  },
+  {
+    "Nombre": "Hacha de Guerra",
+    "Tipo": "Arma",
+    "Rareza": "Raro",
+    "Valor": 6,
+    "CenizaNombre": "Golpe Quebrador",
+    "CenizaDescripcion": "Un hachazo brutal que rompe la guardia enemiga.",
+    "CenizaDaño": 16,
+    "CenizaCooldown": 2
+  },
+  {
+    "Nombre": "Daga Envenenada",
+    "Tipo": "Arma",
+    "Rareza": "Raro",
+    "Valor": 4,
+    "CenizaNombre": "Corte Venenoso",
+    "CenizaDescripcion": "Un tajo que inflige daño adicional por veneno.",
+    "CenizaDaño": 12,
+    "CenizaCooldown": 2
+  },
+
+  {
+    "Nombre": "Espada del Caballero Caído",
+    "Tipo": "Arma",
+    "Rareza": "Epico",
+    "Valor": 7,
+    "CenizaNombre": "Hoja Sombría",
+    "CenizaDescripcion": "Un tajo oscuro que drena la energía del enemigo.",
+    "CenizaDaño": 24,
+    "CenizaCooldown": 3
+  },
+  {
+    "Nombre": "Martillo del Coloso",
+    "Tipo": "Arma",
+    "Rareza": "Epico",
+    "Valor": 8,
+    "CenizaNombre": "Impacto Terremoto",
+    "CenizaDescripcion": "Un golpe devastador que sacude el suelo.",
+    "CenizaDaño": 30,
+    "CenizaCooldown": 3
+  },
+
+  {
+    "Nombre": "Espada del Dragón Eterno",
+    "Tipo": "Arma",
+    "Rareza": "Legendario",
+    "Valor": 10,
+    "CenizaNombre": "Aliento Dracónico",
+    "CenizaDescripcion": "Desatas un torrente de fuego ancestral.",
+    "CenizaDaño": 45,
+    "CenizaCooldown": 4
+  },
+  {
+    "Nombre": "Guadaña del Segador",
+    "Tipo": "Arma",
+    "Rareza": "Legendario",
+    "Valor": 9,
+    "CenizaNombre": "Corte de la Muerte",
+    "CenizaDescripcion": "Un tajo prohibido que ignora toda defensa.",
+    "CenizaDaño": 50,
+    "CenizaCooldown": 5
+  }
+]

@@ -1,0 +1,12 @@
+[
+  { "Nombre": "Rata Mutante", "Tipo": "Bestia", "Vida": 12, "Ataque": 3, "Velocidad": 2 },
+  { "Nombre": "Zombi", "Tipo": "No-Muerto", "Vida": 20, "Ataque": 4, "Velocidad": 1 },
+  { "Nombre": "Esqueleto", "Tipo": "No-Muerto", "Vida": 15, "Ataque": 5, "Velocidad": 1 },
+  { "Nombre": "Bruja", "Tipo": "Humanoide", "Vida": 18, "Ataque": 7, "Velocidad": 3 },
+  { "Nombre": "Ogro", "Tipo": "Gigante", "Vida": 35, "Ataque": 8, "Velocidad": 2 },
+  { "Nombre": "Espíritu Malvado", "Tipo": "Etereo", "Vida": 14, "Ataque": 6, "Velocidad": 4 },
+  { "Nombre": "Aventurero Corrompido", "Tipo": "Humanoide", "Vida": 22, "Ataque": 6, "Velocidad": 4 },
+  { "Nombre": "Centauro", "Tipo": "Bestia", "Vida": 28, "Ataque": 7, "Velocidad": 5 },
+  { "Nombre": "Quimera", "Tipo": "Bestia", "Vida": 40, "Ataque": 10, "Velocidad": 6 },
+  { "Nombre": "Demonio", "Tipo": "Infernal", "Vida": 45, "Ataque": 12, "Velocidad": 6 }
+]

@@ -1,0 +1,29 @@
+[
+  { "Nombre": "Poción de Vida", "Tipo": "Poción", "Valor": 10, "Rareza": "Comun" },
+  { "Nombre": "Poción de Vida Superior", "Tipo": "Poción", "Valor": 20, "Rareza": "Raro" },
+  { "Nombre": "Poción de Vida Épica", "Tipo": "Poción", "Valor": 35, "Rareza": "Epico" },
+  { "Nombre": "Poción de Vida Legendaria", "Tipo": "Poción", "Valor": 60, "Rareza": "Legendario" },
+
+  { "Nombre": "Armadura de Cuero", "Tipo": "Defensa", "Valor": 1, "Rareza": "Comun" },
+  { "Nombre": "Armadura de Caza", "Tipo": "Defensa", "Valor": 1, "Rareza": "Comun" },
+  { "Nombre": "Armadura de Explorador", "Tipo": "Defensa", "Valor": 1, "Rareza": "Comun" },
+  { "Nombre": "Armadura de Acero", "Tipo": "Defensa", "Valor": 2, "Rareza": "Raro" },
+  { "Nombre": "Armadura Reforzada", "Tipo": "Defensa", "Valor": 2, "Rareza": "Raro" },
+  { "Nombre": "Armadura de Guardia", "Tipo": "Defensa", "Valor": 2, "Rareza": "Raro" },
+  { "Nombre": "Armadura de Dragón", "Tipo": "Defensa", "Valor": 4, "Rareza": "Epico" },
+  { "Nombre": "Armadura de Centurión", "Tipo": "Defensa", "Valor": 4, "Rareza": "Epico" },
+  { "Nombre": "Armadura del Rey Caído", "Tipo": "Defensa", "Valor": 6, "Rareza": "Legendario" },
+  { "Nombre": "Armadura del Guardián Eterno", "Tipo": "Defensa", "Valor": 6, "Rareza": "Legendario" },
+
+  { "Nombre": "Botas de Cuero", "Tipo": "Velocidad", "Valor": 1, "Rareza": "Comun" },
+  { "Nombre": "Botas de Sendero", "Tipo": "Velocidad", "Valor": 1, "Rareza": "Comun" },
+  { "Nombre": "Botas de Explorador", "Tipo": "Velocidad", "Valor": 1, "Rareza": "Comun" },
+  { "Nombre": "Botas de Cazador", "Tipo": "Velocidad", "Valor": 2, "Rareza": "Raro" },
+  { "Nombre": "Botas de Acero Ligero", "Tipo": "Velocidad", "Valor": 2, "Rareza": "Raro" },
+  { "Nombre": "Botas del Caminante", "Tipo": "Velocidad", "Valor": 2, "Rareza": "Raro" },
+  { "Nombre": "Botas del Relámpago", "Tipo": "Velocidad", "Valor": 3, "Rareza": "Epico" },
+  { "Nombre": "Botas del Viajero Arcano", "Tipo": "Velocidad", "Valor": 3, "Rareza": "Epico" },
+  { "Nombre": "Botas del Dios del Viento", "Tipo": "Velocidad", "Valor": 5, "Rareza": "Legendario" },
+  { "Nombre": "Botas del Tiempo Roto", "Tipo": "Velocidad", "Valor": 5, "Rareza": "Legendario" }
+
+]

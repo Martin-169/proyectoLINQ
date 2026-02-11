@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/NkkGF1q06E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marti\\Documents\\GitHub\\proyectoLINQ\\Dungeon\\Dungeon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.12\\microsoft.aspnetcore.openapi.9.0.12.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
